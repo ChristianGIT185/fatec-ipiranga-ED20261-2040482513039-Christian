@@ -1,3 +1,17 @@
+/*                   RA: 2040482513039- Christian Moreira Santos                   */
+/*----------------------------------------------------------------------------------*/
+/*                                FATEC - Ipiranga                                  */
+/*                            ADS - Estrutura de Dados                              */
+/*                             ID da Atividade: N2-3                                */
+/*             Objetivo: Consolidação de Competências em Linguagem C                */
+/*                                                                                  */
+/*                       Autor: Christian Moreira Santos                            */
+/*                                                                  Data:19/05/2026 */
+/*----------------------------------------------------------------------------------*/
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
